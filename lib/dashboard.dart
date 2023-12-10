@@ -1157,7 +1157,7 @@ class _DashboardState extends State<Dashboard> {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Container(
-                                  width: 180,
+                                  width: 250,
                                   height: 180,
                                   child: ClipRRect(
                                     borderRadius: BorderRadius.circular(5),
@@ -1291,7 +1291,7 @@ class _DashboardState extends State<Dashboard> {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Container(
-                                  width: 180,
+                                  width: 250,
                                   height: 180,
                                   child: ClipRRect(
                                     borderRadius: BorderRadius.circular(5),
@@ -1425,7 +1425,7 @@ class _DashboardState extends State<Dashboard> {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Container(
-                                  width: 180,
+                                 width: 250,
                                   height: 180,
                                   child: ClipRRect(
                                     borderRadius: BorderRadius.circular(5),
@@ -1559,7 +1559,7 @@ class _DashboardState extends State<Dashboard> {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Container(
-                                  width: 180,
+                                  width: 250,
                                   height: 180,
                                   child: ClipRRect(
                                     borderRadius: BorderRadius.circular(5),
@@ -1693,7 +1693,7 @@ class _DashboardState extends State<Dashboard> {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Container(
-                                  width: 180,
+                                  width: 250,
                                   height: 180,
                                   child: ClipRRect(
                                     borderRadius: BorderRadius.circular(5),
